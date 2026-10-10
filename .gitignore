@@ -1,0 +1,11 @@
+# IntelliJ project settings
+.idea/
+
+# Local environment files and secrets
+.env
+.env.*
+!.env.example
+
+# React dependencies and build files
+node_modules/
+dist/
